@@ -87,4 +87,7 @@ a:hover{
         ul{
             width: 90vw;
         }
+        .right-section{
+            margin-bottom: 0px;
+        }
 }
